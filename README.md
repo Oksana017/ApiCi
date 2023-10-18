@@ -1,0 +1,1 @@
+ApiCi Project [![Build status](https://ci.appveyor.com/api/projects/status/8fopv3gvu1kto6kv/branch/main?svg=true)](https://ci.appveyor.com/project/Oksana017/apici/branch/main)
